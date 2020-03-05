@@ -1,0 +1,6 @@
+[submodule "rock-paper-scissors-frontend"]
+	path = rock-paper-scissors-frontend
+	url = C:\\Users\\Anna\\IdeaProjects\\RockPaperScissors-FE
+[submodule "rock-paper-scissors-backend"]
+	path = rock-paper-scissors-backend
+	url = C:\\Users\\Anna\\IdeaProjects\\rock-paper-scissors
