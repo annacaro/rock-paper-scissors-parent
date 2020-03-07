@@ -1,6 +1,6 @@
 [submodule "rock-paper-scissors-frontend"]
 	path = rock-paper-scissors-frontend
-	url = C:\\Users\\Anna\\IdeaProjects\\RockPaperScissors-FE
+	url = https://github.com/annacaro/rock-paper-scissors-frontend.git
 [submodule "rock-paper-scissors-backend"]
 	path = rock-paper-scissors-backend
-	url = C:\\Users\\Anna\\IdeaProjects\\rock-paper-scissors
+	url = https://github.com/annacaro/rock-paper-scissors-backend.git
