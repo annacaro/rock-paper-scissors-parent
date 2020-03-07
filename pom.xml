@@ -16,8 +16,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>rock-paper-scissors-backend</module>
         <module>rock-paper-scissors-frontend</module>
+        <module>rock-paper-scissors-backend</module>
     </modules>
 
 </project>
